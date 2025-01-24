@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Alphabtes from './Alphabets';
+import Abs from './Abs';
 
 //import Hooks4 from './Hooks4';
 //import Numbers from './Numbers';
@@ -25,5 +25,5 @@ root.render(
   //<Hooks3/>
   //<Hooks4/>
   //<Numbers/>
-  <Alphabtes/>
+  <Abs/>
 );
